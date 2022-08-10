@@ -23,3 +23,5 @@ while numero !=numeroSecreto:
     
     print("¡Ja, ja! ¡Estás atrapado en mi ciclo!")
     numero = int(input("Digite un numero entero"))
+
+print("usted Adivino la carta")
